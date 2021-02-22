@@ -25,4 +25,4 @@ Because these Jupyter notebooks require a "data" directory to be located in the 
 - GDAL
 - descartes
 - struct
-and the dependencies for all of the modules listed above. 
+- the dependencies for all of the modules listed above. 
